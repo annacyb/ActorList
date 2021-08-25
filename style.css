@@ -89,3 +89,7 @@ h3 {
     z-index: 15;
     border: rgb(228, 164, 45, 0.75) 2px solid;
 }
+
+.hidden {
+    display: none;
+}
